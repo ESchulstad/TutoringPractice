@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutoringPractice\TutoringPractice\bin\Debug\TutoringPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutoringPractice\TutoringPractice\bin\Debug\TutoringPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutoringPractice\TutoringPractice\bin\Debug\TutoringPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutoringPractice\TutoringPractice\obj\Debug\TutoringPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutoringPractice\TutoringPractice\obj\Debug\TutoringPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TutoringPractice\TutoringPractice\obj\Debug\TutoringPractice.pdb
